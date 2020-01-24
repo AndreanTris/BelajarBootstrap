@@ -1,0 +1,55 @@
+.style{
+    background-color: orangered;
+    color: white!important;
+    font-family: 'trebuchet', sans-serif;
+    font-size: 15px;
+}
+.background{
+    background-image: url('../img/balonudara.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.mrgn{
+    margin-top: 10%
+}
+.margnn{
+    margin-top: 5px
+}
+.white{
+    color: white
+}
+.size{
+    font-size: 5em
+}
+.navbawah{
+    background-color: white;
+    padding: 50px!important;
+}
+.navsebelah{
+    background-color: rgba(0, 0, 0, 0.588);
+    /* filter: blur(50px);
+  -webkit-filter: blur(5px); */
+}
+.text{
+    color: white;
+    position: absolute;
+    z-index: 2;
+}
+.text{
+    padding: 50px
+}
+.overflow {
+    overflow: hidden;
+}
+.ballon1{
+    width: 100%;
+    margin-top: -30px;
+}
+.ballon2{
+    width: 100%;
+    margin-top: -30px;
+}
+.ballon4{
+    width: 100%;
+    margin-top: -30px;
+}
